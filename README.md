@@ -8,4 +8,8 @@ The GMOD Chado database schema
 
 ###   araport-chado
 
-The Araport Chado Database Schema (extension of GMOD Chado schema)	
+The Araport Chado Database Schema (the GMOD Chado extension)	
+
+## Release Notes
+
+[Release Notes](araport_release_notes.md)
